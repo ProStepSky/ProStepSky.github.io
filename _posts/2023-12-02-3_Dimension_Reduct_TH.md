@@ -1,5 +1,5 @@
 ---
-title:  "[🇹🇭 Thai] American Express default (Dimensionality Reduction)"
+title:  "[🇹🇭 Thai] 3) American Express Default (dimensionality reduction)"
 layout: post
 ---
 
