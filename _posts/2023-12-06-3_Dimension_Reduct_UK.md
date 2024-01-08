@@ -1,5 +1,5 @@
 ---
-title:  "🇬🇧 English | (3) American Express Default (dimensionality reduction)"
+title:  "🇬🇧 English [3] American Express Default (dimensionality reduction)"
 layout: post
 ---
 
