@@ -8,7 +8,7 @@ Copyright © 2024 ProStepSky.github.io จัดทำโดย S.U.
 
 # Bank Customer Churn Prediction by Developing Classification and Random Forest Models
 
-### สารบัญ  
+### Table of Contents  
 [Executive Summary](#bullet1)  
 [Models’ Performance Comparison](#bullet2)  
 [Exploratory Data Analysis to obtain Insights](#bullet3)  
