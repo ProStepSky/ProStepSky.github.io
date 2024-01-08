@@ -1,5 +1,5 @@
 ---
-title:  "🇬🇧 English | (4) Customer Segmentation (clustering)"
+title:  "🇬🇧 English [4] Customer Segmentation (clustering)"
 layout: post
 ---
 
