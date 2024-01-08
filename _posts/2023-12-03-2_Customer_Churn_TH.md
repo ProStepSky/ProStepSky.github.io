@@ -1,5 +1,5 @@
 ---
-title:  "[🇹🇭 Thai] 2) Bank Customer Churn (classification, random forest)"
+title:  "🇹🇭 Thai | (2) Bank Customer Churn (classification, random forest)"
 layout: post
 ---
 
