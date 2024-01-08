@@ -30,7 +30,7 @@ Then, compare the performance of those 2 techniques, including Logistic Regressi
 ---
 
 1. The application of dimensionality reduction to a 3 GB-Sized American Express Default Dataset could reduce the computation time significantly and enhance the models’ performance even more.
-2. Dimensionality reduction by utilising Principal Component Analysis (PCA) to the Random Forest model yield the best results (both reduce computation time and enhance the performance):
+2. Dimensionality reduction by utilising Principal Component Analysis (PCA) to the Random Forest model yields the best results (both reduce computation time and enhance the performance):
     - Reduce the computation time from 2 hours and 10 minutes to only 54 minutes.
     - Enhance the performance in F1 Score of the Random Forest model from 79.5% to 80.0%.
 
