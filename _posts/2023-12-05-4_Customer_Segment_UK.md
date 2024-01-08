@@ -32,7 +32,8 @@ This project has used the dataset from an online store in the UK which collected
         - Broad suggestions, such as notify when there are major yearly or seasonal promotions, for instance, 6th day of the 6th month, etc. 
     - Customer group 3: Spend more, buy recently, and buy many times.
         - Broad suggestions, such as offering many discounts once or twice in a while, but don’t offer the discounts often, etc.
-These broad suggestions are rewards and can impress the customers which leads to increasing the brand loyalty.
+
+    These broad suggestions are rewards and can impress the customers which leads to increasing the brand loyalty.
 
 2. This customer segmentation project could be utilised for further usages, that is, develop customised models for each customer segments which could gain more accurate insights and more accurate prediction, when compared to the models’ development for the general customers. From the section 1 which is the broad suggestion, by following this section 2, they would be suggestions that more satisfied specifically for each customer segments. For instance, if we are considering offering discounts, we will know which products are the most matching and most personalised to that customer segments, which cause more satisfaction and the company would gain more profits.
 
