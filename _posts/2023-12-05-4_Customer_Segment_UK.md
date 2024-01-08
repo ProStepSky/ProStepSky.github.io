@@ -84,7 +84,7 @@ Description for each variable:
 
 From the customer segmentation chart and consumption behaviours for each customer segments chart, the conclusions of consumption behaviours of 3 customer groups are the following:
 
-| |Cluster 0 |Cluster 1 |Cluster 2 |
+| |Group 1 |Group 2 |Group 3 |
 |:-:|:-:|:-:|:-:|
 |**TotalSum**| Spend less | Spend less | Spend more |
 |**DaysSinceLastInvoice**| Buy recently | Buy long ago | Buy recently |
