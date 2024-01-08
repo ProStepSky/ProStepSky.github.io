@@ -114,9 +114,9 @@ Both K-Means and Hierarchical Clustering could be concluded in the same ways.
 
 - **For the data preparation,** please refer to [1_Data_Cleaning.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/4_Customer_Segment/1_Data_Cleaning.ipynb) for further information.
 
-- **K-Means Clustering** please refer to [2_Kmeans.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/4_Customer_Segment/2_Kmeans.ipynb) for further information.
+- **K-Means Clustering,** please refer to [2_Kmeans.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/4_Customer_Segment/2_Kmeans.ipynb) for further information.
 
-- **Hierarchical Clustering** please refer to [3_Hierarchical.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/4_Customer_Segment/3_Hierarchical.ipynb) for further information.
+- **Hierarchical Clustering,** please refer to [3_Hierarchical.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/4_Customer_Segment/3_Hierarchical.ipynb) for further information.
 
 ---
 △ [Back to Top](#toc)
