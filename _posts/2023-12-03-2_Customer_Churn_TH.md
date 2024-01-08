@@ -2,6 +2,7 @@
 title:  "[🇹🇭 Thai] 2) Bank Customer Churn (classification, random forest)"
 layout: post
 ---
+Copyright © 2024 ProStepSky.github.io จัดทำโดย S.U.
 
 <a class='anchor' id='toc'></a>
 
