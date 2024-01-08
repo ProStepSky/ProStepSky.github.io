@@ -2,6 +2,7 @@
 title:  "[🇬🇧 English] 3) American Express Default (dimensionality reduction)"
 layout: post
 ---
+Copyright © 2024 ProStepSky.github.io จัดทำโดย S.U.
 
 <a class='anchor' id='toc'></a>
 
