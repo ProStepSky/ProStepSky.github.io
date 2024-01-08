@@ -1,5 +1,5 @@
 ---
-title:  "[🇹🇭 Thai] 4) Customer Segmentation (clustering)"
+title:  "🇹🇭 Thai | (4) Customer Segmentation (clustering)"
 layout: post
 ---
 
