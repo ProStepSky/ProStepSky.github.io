@@ -13,7 +13,7 @@ Copyright © 2024 ProStepSky.github.io จัดทำโดย S.U.
 [Models’ Performance Comparison](#bullet2)  
 [Exploratory Data Analysis to obtain Insights](#bullet3)  
 [Future Scopes](#bullet4)  
-[Jupyter Notebooks](#bullet5)  
+[Jupyter Notebooks (in Thai language)](#bullet5)  
 
 In the competition of the business world like today, to maintain profits for the company, maintaining the customers base is very important. One thing that could indicate the success of the company is the ability to predict in advance if the customers are going to churn. So, the company will implement the proactive measures action to maintain or attract customers before they will churn from the company.
 
