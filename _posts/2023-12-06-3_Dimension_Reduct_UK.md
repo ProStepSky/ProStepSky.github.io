@@ -22,7 +22,7 @@ This project has applied dimensionality reduction to a 3 GB-Sized American Expre
 
 Then, compare the performance of those 2 techniques, including Logistic Regression, Decision Tree, Naïve Bayes, and Random Forest in order to compare the performance before and after applied dimensionality reduction techniques.
 
-(This project emphasises at dimensionality reduction techniques only, for Classification Models, please refer to the [Bank Customer Churn Prediction project](https://prostepsky.github.io/2_Customer_Churn_UK) for further information.
+(This project emphasises at dimensionality reduction techniques only, for Classification Models, please refer to the [Bank Customer Churn Prediction project](https://prostepsky.github.io/2_Customer_Churn_UK) for further information.)
 
 
 <a class='anchor' id='bullet1'></a>
