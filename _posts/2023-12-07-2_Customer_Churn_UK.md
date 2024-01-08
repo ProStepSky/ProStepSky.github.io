@@ -1,5 +1,5 @@
 ---
-title:  "[🇬🇧 English] Bank customer churn prediction (Classification, Random Forest)"
+title:  "[🇬🇧 English] Bank customer churn (Classification, Random Forest)"
 layout: post
 ---
 
