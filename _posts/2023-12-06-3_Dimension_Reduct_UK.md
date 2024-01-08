@@ -122,9 +122,9 @@ After performing PCA and LDA techniques, all models utilised less computation ti
 
 - **Baseline models before the dimensionality reduction,** please refer to [2_Baseline.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/2_Baseline.ipynb) for further information.
 
-- **Principal Component Analysis (PCA)** please refer to [3_PCA.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/3_PCA.ipynb) for further information.
+- **Principal Component Analysis (PCA),** please refer to [3_PCA.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/3_PCA.ipynb) for further information.
 
-- **Linear Discriminant Analysis (LDA)** please refer to [4_LDA.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/4_LDA.ipynb) for further information.
+- **Linear Discriminant Analysis (LDA),** please refer to [4_LDA.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/4_LDA.ipynb) for further information.
 
 - **For the models’ performance comparison,** please refer to [5_Comparison.ipynb](https://github.com/ProStepSky/Portfolio/blob/main/3_Dimension_Reduct/5_Comparison.ipynb) for further information.
 
