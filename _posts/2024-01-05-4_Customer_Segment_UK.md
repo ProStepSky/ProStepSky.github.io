@@ -37,9 +37,9 @@ This project has used the dataset from an online store in the UK which collected
 
     These broad suggestions are rewards and can impress the customers which leads to increasing the brand loyalty.
 
-2. This customer segmentation project could be utilised for further usages, that is, develop customised models for each customer segments which could gain more accurate insights and more accurate prediction, when compared to the models’ development for the general customers. From the section 1 which is the broad suggestion, by following this section 2, they would be suggestions that more satisfied specifically for each customer segments. For instance, if we are considering offering discounts, we will know which products are the most matching and most personalised to that customer segments, which cause more satisfaction and the company would gain more profits.
+2. This customer segmentation project could be utilised for further usages, that is, develop customised models for each customer segments which could gain more accurate insights and more accurate prediction, when compared to the models’ development for the general customers. From the point 1 which is the broad suggestion, by following this point 2, they would be suggestions that more satisfied specifically for each customer segments. For instance, if we are considering offering discounts, we will know which products are the most matching and most personalised to that customer segments, which cause more satisfaction and the company would gain more profits.
 
-3. From section 2, the examples of further usages; for instance, analyse the markets for each customer segments to gain insights, personalised promotions, personalised discounts, personalised goods and services recommendations, etc.
+3. From point 2, the examples of further usages; for instance, analyse the markets for each customer segments to gain insights, personalised promotions, personalised discounts, personalised goods and services recommendations, etc.
 
 
 <a class='anchor' id='bullet2'></a>
