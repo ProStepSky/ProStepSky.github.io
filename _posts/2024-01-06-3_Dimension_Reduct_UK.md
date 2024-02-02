@@ -6,6 +6,8 @@ layout: post
 This work © 2024 by "ProStepSky.github.io จัดทำโดย S.U." is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)  
 (อ้างอิงแหล่งที่มา ห้ามนำไปใช้เพื่อการค้า และห้ามดัดแปลง)
 
+***- Even though my current English might not be very good, I am constently working on perfecting my English every single day. -***
+
 <a class='anchor' id='toc'></a>
 
 # Applied Dimensionality Reduction to a 3 GB-Sized American Express Default Dataset – Reducing Computation Time and Boosting Performance
