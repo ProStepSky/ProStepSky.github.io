@@ -6,6 +6,13 @@ title: "Home"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive_2.html title="Test" %}
+
+  <article>
+    <header><h1>{{ include.title | default: page.title }}</h1></header>
+    <ul class="archive">
+      <p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+    </ul>
+  </article>
+
   {% include archive.html title="Data Science Reports" %}
 {% endif %}
