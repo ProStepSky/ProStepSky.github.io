@@ -41,7 +41,7 @@ Then, compare the performance of the 6 models, by evaluate the Accuracy, F1 Scor
     - 50% of customers are between 32-43 years old.
     - 50% of churned customers are between 38-50 years old.
     - Most customers from all countries (more than 95%) use the bank products 1-2 products.
-    - The more bank products customers use, the more likelihood they would churn. This is contrasted to the ‘Feeling’ that if someone use many bank products, they are ‘not likely’ to churn from the bank, but the information provided are contrasted. Studying from other contexts can provide more understanding.
+    - The more bank products customers use, the more likelihood they would churn. This is contrasted to the ‘Feeling’ that if someone use many bank products, they are ‘not likely’ to churn from the bank, but the information provided are contrasted. It should investigate further to gain a better understanding.
 2. This is an imbalanced dataset because this dataset contains 20% of churned customers and 80% of non-churned customers. Therefore, prediction of churn customers will be harder than prediction of non-churn customers.
 
 
