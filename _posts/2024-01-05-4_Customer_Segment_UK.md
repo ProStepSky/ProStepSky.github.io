@@ -31,7 +31,7 @@ This project has used the dataset from an online store in the UK which collected
     - Customer group 1: Spend less, buy recently, and buy moderate times.
         - Broad suggestions, such as offering a discount after 5 times bought, etc.
     - Customer group 2: Spend less, buy long ago, and buy few times.
-        - Broad suggestions, such as notify when there are major yearly or seasonal promotions, for instance, 6th day of the 6th month, etc. 
+        - Broad suggestions, such as notify when there are major yearly or seasonal promotions, for instance, 6th day of the 6th month (6.6 Sale), etc. 
     - Customer group 3: Spend more, buy recently, and buy many times.
         - Broad suggestions, such as offering many discounts once or twice in a while, but don’t offer the discounts often, etc.
 
@@ -94,9 +94,9 @@ From the customer segmentation chart and consumption behaviours for each custome
 |**DaysSinceLastInvoice**| Buy recently | Buy long ago | Buy recently |
 |**InvoiceCount**| Buy moderate times | Buy few times | Buy many times |
 
-Customer group 1: Spend less, buy recently, and buy moderate times.
-Customer group 2: Spend less, buy long ago, and buy few times.
-Customer group 3: Spend more, buy recently, and buy many times.
+- Customer group 1: Spend less, buy recently, and buy moderate times.
+- Customer group 2: Spend less, buy long ago, and buy few times.
+- Customer group 3: Spend more, buy recently, and buy many times.
 
 Both K-Means and Hierarchical Clustering could be concluded in the same ways.
 
