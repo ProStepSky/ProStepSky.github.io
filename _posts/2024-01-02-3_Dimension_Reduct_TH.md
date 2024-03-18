@@ -80,7 +80,7 @@ This work © 2024 by "ProStepSky.github.io จัดทำโดย S.U." is lic
 
 ![https://raw.githubusercontent.com/ProStepSky/ProStepSky.github.io/master/img/3_Dimension_Reduct/4.png](https://raw.githubusercontent.com/ProStepSky/ProStepSky.github.io/master/img/3_Dimension_Reduct/4.png)
 
-กราฟสีแดงคือ baseline models, สีเขียวคือ Principal Component Analysis (PCA) models, และสีน้ำเงินคือ Linear Discriminant Analysis (LDA) models
+แท่งสีแดงคือ baseline models, แท่งสีเขียวคือ Principal Component Analysis (PCA) models, และแท่งสีน้ำเงินคือ Linear Discriminant Analysis (LDA) models
 
 หลังทำ PCA แล้วพบว่า F1 Score ของ:
 - Model ตระกูล tree-based ทำคะแนนได้ดีขึ้น: Decision Tree (จาก 69.7% เพิ่มเป็น 70.0%), Random Forest (จาก 79.5% เพิ่มเป็น 80.0%)
