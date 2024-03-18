@@ -80,7 +80,7 @@ From the chart, found that the Linear Discriminant Analysis algorithm could sepa
 
 ![https://raw.githubusercontent.com/ProStepSky/ProStepSky.github.io/master/img/3_Dimension_Reduct/4.png](https://raw.githubusercontent.com/ProStepSky/ProStepSky.github.io/master/img/3_Dimension_Reduct/4.png)
 
-Red bars are baseline models, green bars are Principal Component Analysis (PCA) models, blue bars are Linear Discriminant Analysis (LDA) models.
+Red bars are baseline models, green bars are Principal Component Analysis (PCA) models, and blue bars are Linear Discriminant Analysis (LDA) models.
 
 After performed the PCA, found that F1 Score of:
 - Tree-based models have better scores: Decision Tree (from 69.7% increase to 70.0%), Random Forest (from 79.5% increase to 80.0%)
