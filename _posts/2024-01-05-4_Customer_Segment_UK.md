@@ -28,12 +28,12 @@ This project has used the dataset from an online store in the UK which collected
 ---
 
 1. After the customer segmentation by using K-Means and Hierarchical Clustering, found that some customers are segmented into different groups, but the conclusions are in the same ways, as following.
-    - Customer group 1: Spend less, buy recently, and buy moderate times.
-        - Broad suggestions, such as offering a discount after 5 times bought, etc.
-    - Customer group 2: Spend less, buy long ago, and buy few times.
-        - Broad suggestions, such as notify when there are major yearly or seasonal promotions, for instance, 6th day of the 6th month (6.6 Sale), etc. 
-    - Customer group 3: Spend more, buy recently, and buy many times.
-        - Broad suggestions, such as offering many discounts once or twice in a while, but don’t offer the discounts often, etc.
+    - **Customer group 1**: Spend less, buy recently, and buy moderate times.
+        - *Broad suggestions:* such as offering a discount after 5 times bought, etc.
+    - **Customer group 2**: Spend less, buy long ago, and buy few times.
+        - *Broad suggestions:* such as notify when there are major yearly or seasonal promotions, for instance, 6th day of the 6th month (6.6 Sale), etc. 
+    - **Customer group 3**: Spend more, buy recently, and buy many times.
+        - *Broad suggestions:* such as offering many discounts once or twice in a while, but don’t offer the discounts often, etc.
 
     These broad suggestions are rewards and can impress the customers which leads to increasing the brand loyalty.
 
